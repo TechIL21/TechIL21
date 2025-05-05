@@ -3,7 +3,6 @@
 🚀 Learning **Linux**, **Bash**, and **Ansible**  
 🛠️ Working with **servers** and **system configuration**  
 🧠 Practicing **SQL** and **databases**  
-💻 Terminal enjoyer — no GUI, just raw control  
 📦 Studying servers like **Apache** and **Nginx**, focusing on configuration and optimization  
 
 # 💻 Tech Stack:
